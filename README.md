@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **jjavier.bustillo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LUsOULoIQUcp5jpxNR5ume_cMsD3N1Bs/view?usp=share_link](https://drive.google.com/file/d/1LUsOULoIQUcp5jpxNR5ume_cMsD3N1Bs/view?usp=share_link)
-
 - ⚡ Fun fact **When I am not programming, listen all kind of music is what I like the most. I love to play guitar, too! Would you like play music and program together?**
 
 <h3 align="left">Connect with me:</h3>
