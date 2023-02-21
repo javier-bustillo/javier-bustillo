@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Bustillo</h1>
 <h3 align="center">A passionate full stack developer from Spain</h3>
 
-- 💬 Ask me about **html, css, javascript, python and flask**
+- 💬 Ask me about **html, css, javascript, react, python and flask**
 
 - 📫 How to reach me **jjavier.bustillo@gmail.com**
 
